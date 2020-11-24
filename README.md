@@ -1,6 +1,6 @@
 # Code-NOLC
 
-![](https://img.shields.io/badge/building-pass-green.svg?style=flat-square)
+[![](https://img.shields.io/badge/building-pass-green.svg?style=flat-square)](https://github.com/ProfCarleton/NOLC)
 ![](https://img.shields.io/badge/language-Matlab-blue.svg?style=flat-square)
 [![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](./LICENSE)
 
