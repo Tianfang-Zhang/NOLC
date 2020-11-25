@@ -4,11 +4,11 @@
 ![](https://img.shields.io/badge/language-Matlab-blue.svg?style=flat-square)
 [![](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](./LICENSE)
 
-This repository is for Non-convex Optimization with Lp-norm Constraint (NOLC) introduced in the following paper.
+This repository is for Non-convex Optimization with Lp-norm Constraint (NOLC) introduced in the following paper and is built in Matlab R2014a.
 
-Zhang T, Wu H, Liu Y, et al. [Infrared small target detection based on non-convex optimization with Lp-norm constraint](https://www.mdpi.com/2072-4292/11/5/559)[J]. Remote Sensing, 2019, 11(5): 559.
+> Zhang T, Wu H, Liu Y, et al. [Infrared small target detection based on non-convex optimization with Lp-norm constraint](https://www.mdpi.com/2072-4292/11/5/559)[J]. Remote Sensing, 2019, 11(5): 559.
 
-The model is built in Matlab R2014a. 
+For more information about me, you can visit my [persional website](https://tianfang-zhang.github.io/).
 
 ## Contents
 1. [Introduction](#introduction)
@@ -71,7 +71,7 @@ The iterative process of the NOLC model is given in the following table.
 ### Quick start
 1. Download the code and test images in `./TestCode/`.
 
-2. Modify the image path and p value in the `demo.m`, and run the file.
+2. Modify the image path and $p$ value in the `demo.m`, and run the file.
 
 
 ## Results
